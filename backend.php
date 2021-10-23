@@ -17,7 +17,7 @@ $sql = "Select login.username From login Where username = '$username'";
 $sql = $conn->query($sql);
 $sql = $sql-> fetch_assoc();
 if($sql){
-header('location: register.php');
+header('location: register.html');
 exit();
 }else{
 $sql = "Insert Into login(username, password) VALUES ('$username','$passwordHashed')";
