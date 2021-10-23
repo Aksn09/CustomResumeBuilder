@@ -19,8 +19,6 @@
 
         <p>Registration succesful. You may <a href= 'login.php'>login</a> now.</p>
 
-        <p class="text-center" style="font-size: 20px; font-weight: bold; color:  #0b1e2d ; align-text:center; background-color:lightgreen;">We are in Development phase. Sorry for inconvience.</p>
-        <p class="text-center" style="font-size: 20px; font-weight: bold; color:  #0b1e2d ; align-text:center;">Made with ❤️ by AK</p>
 
 </body>
 </html>

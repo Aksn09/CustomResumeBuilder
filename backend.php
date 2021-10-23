@@ -24,7 +24,7 @@ $sql = "Insert Into login(username, password) VALUES ('$username','$passwordHash
 $sql = $conn->query($sql);
 if($sql){
 // echo "Registration succesful. You may <a href= 'login.php'>login</a> now";
-header('location: index.php');
+header('location: success.php');
 }
 //$sql = $sql->fetch_assoc();
 //echo $username.$email.$password;
@@ -41,7 +41,7 @@ if(password_verify($password, $sql['password'])){
 session_start();
 $_SESSION['username'] = $username;
 echo 'You have successfully logged-in';
-header('location: index.html');
+header('location: form.html');
 }
 }else{
 header('location: login.php');

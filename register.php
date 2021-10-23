@@ -21,7 +21,7 @@ require 'header.php';
                 </form>
                 <br>
                 <div id="footer-box">
-                <a href="login.php" class="sign-up">Return to login!</a>
+                <a href="index.php" class="sign-up">Return to login!</a>
                 </div>
             </div>
         </div>
