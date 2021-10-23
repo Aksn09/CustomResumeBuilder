@@ -2,6 +2,7 @@
     require 'header.php';
     require 'connection.php';
 ?>
+<html>
 <body>
         <!-- <div class="container">
             <div class="col">
