@@ -13,12 +13,13 @@
 <body>
     <div class="container shadow p-5 mb-5 bg-white rounded" id="resume-form">
         <h1 class="text-center" style="font-size: 80px; font-weight: 800; color:    #044450 ;">Resume Builder</h1>
-        <p class="text-center" style="font-size: 20px; font-weight: bold; color:  #0b1e2d ;">Create your Free Resume.</p>
+        <p class="text-center" style="font-size: 20px; font-weight: bold; color:  #0b1e2d ;">Create your Free Resume from this tool.</p>
 <br>
        
 
-        <p>Registration succesful. You may <a href= 'login.php'>login</a> now.</p>
+        <p></p>
 
+        <p class="text-center" style="font-size: 20px; font-weight: bold; color:  #0b1e2d ; align-text:center; background-color:lightgreen;">Registration succesful. You may <a href= 'index.html'>login</a> now.</p>
 
 </body>
 </html>

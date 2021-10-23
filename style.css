@@ -20,7 +20,7 @@
 }
 
 p {
-  color: white;
+  color: black;
 }
 
 .name1, .address1 {
@@ -37,7 +37,7 @@ p {
   color: white;
 }
 a {
-  color: white;
+  color: blue;
   text-decoration: none;
   max-width: fit-content;
   
@@ -118,5 +118,4 @@ input[type=submit] {
       display: block;
       text-align: center;
     }
-  } 
-
+  }
